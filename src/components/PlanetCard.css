@@ -1,0 +1,21 @@
+.container-planets img {
+  width: 170px;
+}
+
+.planets {
+  display: flex;
+  color: white;
+  justify-content: center;
+  flex-wrap: wrap;
+  text-align: center;
+}
+
+.planets img:hover {
+  width: 190px;
+  transition: 1s;
+}
+
+.planets p:hover {
+  width: 190px;
+  transition: 1s;
+}

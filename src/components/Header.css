@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  box-sizing: border-box;
+  background-image: url('../images/background.png');
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-attachment: fixed;
+  font-family: 'Press Start 2P', cursive;
+}
+
+.header {
+  color: white;
+  font-size: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  color: yellow;
+}
+
+.container-header {
+  display:flex;
+  justify-content: center;
+}
