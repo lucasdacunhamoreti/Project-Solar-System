@@ -1,5 +1,5 @@
 # Solar System
-Projeto da [Trybe](https://www.betrybe.com/) - Bloco 10 - Aplicação que exibe o Sistema Solar e Viagens Espaciais feito com React.
+Aplicação que exibe o Sistema Solar e Viagens Espaciais feito com React.
 
 ## 💻 Projeto
 
