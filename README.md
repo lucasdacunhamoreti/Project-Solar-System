@@ -1,6 +1,8 @@
 # Solar System
 > Aplicação que exibe o Sistema Solar e Viagens Espaciais feito com React.
 
+Link da aplicação: https://solar-system-lucasdacunhamoreti.vercel.app/
+
 ## 💻 Projeto
 
 Aplicação para visualizar os planetas do sistema solar e informações sobre missões espaciais.
